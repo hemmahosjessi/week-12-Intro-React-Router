@@ -8,9 +8,8 @@ import Navbar from './Navbar'
 export const App = () => {
   return (
     <BrowserRouter>
+    <Navbar />
       <main>
-        <Navbar />
-
         <Switch>
           <Route path='/' exact>
             <Welcome />

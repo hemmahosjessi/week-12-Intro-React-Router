@@ -20,6 +20,11 @@ nav h1 {
   font-size: 1.125rem;
 }
 
+main {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
 h1 {
   font-size: 48px;
 }
